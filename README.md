@@ -1,4 +1,4 @@
-# Max Gorman | My Portfolio Website (Dark Mode)
+# Max Gorman | Portfolio Website (Dark Mode)
 
 Welcome to my personal portfolio website! This site features a sleek, modern dark mode design with green accents, built to showcase my software development projects, experience, and journey as a computer science student.
 
